@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Custom
+test.py~
+config.py~
+garch.py~
+arima.py~
+main.py~
+
 # C extensions
 *.so
 
