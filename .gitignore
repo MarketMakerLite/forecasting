@@ -9,6 +9,7 @@ config.py~
 garch.py~
 arima.py~
 main.py~
+*.csv
 
 # C extensions
 *.so

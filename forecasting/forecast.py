@@ -106,6 +106,7 @@ def main():
     result['save_date'] = datetime.datetime.utcnow()
     print(result)
     # result.to_sql('arima', engine, if_exists='append', index=False)
+    result.to_csv('results.csv')
     return None
 
 
